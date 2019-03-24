@@ -1,5 +1,5 @@
 {
-  "name": "favicons",
+  "name": "@aerapass/favicons",
   "version": "5.3.1",
   "description": "Favicon generator for Node.js",
   "main": "dist/index.js",

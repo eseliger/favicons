@@ -151,7 +151,6 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/node,osx,windows,visualstudiocode
 
 ### Custom ###
-dist/
 .idea/compiler.xml
 .idea/favicons.iml
 .idea/misc.xml
